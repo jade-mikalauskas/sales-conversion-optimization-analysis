@@ -53,5 +53,5 @@ Gamma – executive presentation development
 ## Project Structure
 
 sales-dashboard.png – Tableau dashboard screenshot  
-Sales-Optimization-Analysis.pptx – executive slide presentation  
+Sales-Optimization-Analysis.pdf – executive slide presentation  
 README.md – project documentation
